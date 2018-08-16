@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    
+    <title>DC map</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/leaflet-branch-DC.css" />
+    <script src="js/DC-layer-leaflet-src.js"></script>
+    
+    <!-- importing TAU -->
+    <link rel="stylesheet" href="lib/TAU/tau.css">
+	<link rel="stylesheet" href="lib/TAU/style.css">
+	<script type="text/javascript" src="lib/TAU/tau.js" data-build-remove="false"></script>
+	
+	<!-- importing Global Namespace -->
+    <script type="text/javascript" src="js/DC.js"></script>
+    
+</head>
+
+<body>
+    <div id="canvas-map"><img src="css/images/DCmap-logo-mini.png"><span id="dc-info">DC map</span></div>
+    <!-- importing DC -->
+    <script src="js/app.js"></script> 
+</body>
+
+
+<!--  Menu Main -->
+<div id="menu-popup" class="ui-popup">
+      <div class="ui-popup-footer ui-grid-col-1" align="center">
+      <button id="reload-popup-init-btn" data-inline="true" data-icon="refresh" style="width:50px;height:50px"><img id="badge_99"  src="lib/TAU/images/00_button_empty.png" align="left"></img></button>
+      <button id="info-popup-init-btn" data-inline="true" data-icon="info" style="width:50px;height:50px"></button>
+     </div>
+</div>
+</html>

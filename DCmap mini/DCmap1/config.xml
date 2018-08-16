@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://yourdomain/DCmap1" version="1.1.0" viewmodes="maximized">
+    <access origin="*" subdomains="true"></access>
+    <tizen:application id="8DLZ8GNhlU.DCmap3" package="8DLZ8GNhlU" required_version="2.3"/>
+    <author href="http://www.smatron.net" email="lnt123go@gmail.com">DCMT</author>
+    <content src="index.html"/>
+    <description>Discovery Channel map </description>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <feature name="tizen.org/feature/location.gps"/>
+    <icon src="DCmap-logo001.png"/>
+    <name>DCmap</name>
+    <tizen:privilege name="http://tizen.org/privilege/location"/>
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+    <tizen:profile name="mobile"/>
+</widget>
