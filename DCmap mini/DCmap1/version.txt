@@ -1,20 +1,21 @@
-/////////////////////////////////////        /////////////////////
-///////    D C   m a p          /////     ////
-///////    Justice League      //////     ////   
-///////////////////////////////////         ////////////////////////
-==================================================================================
-Wonder Woman : OSM(OpenStreetMap.org) API
-Super Man :  Geolocation API
-Bat man : map layer JS library (leaf-branch:leaflet fork)
-Flash : Route Tracer engine
-==========================LOG==================================================
-1.0.0  SAMSUNG TIZEN Googlemap2 ,  porting  to  OSM(OpenStreetMap.org) API : this is a start point.
+
+\\\\\\\\\\\\\\\\\\\\\        ////////////////////
+ \\\\             ||||      /////           ////  
+ |||||            ||||      |||||
+ |||||            ||||      |||||
+ |||||            ////      \\\\\            ||||   
+ ////////////////////        \\\\\\\\\\\\\\\\||||
+ 
+=========D C m a p=========Justice League===============================================================
+Wonder Woman : OSM(osm,OpenStreetMap.org) API
+Superman :   GPS HW and Geolocation web API (W3C HTML5) and GeoCoding
+Batman : [DC layer - IAC) leaflet.js(map layer JS library) fork  
+          and Justice League other member API Inter Agency Contacter       
+Flash: Nominatim API and Goecode Timezone API [GMTx24/360]
+GL Corps : 
+L : Lady Luck(God) aliace 
+Anti Monitor of Qward's Moon (Supuer Villain) :  Data traffic jam and BUG 
+Lex Corps :  Multiverse [Space] limit 
+==========================LOG===================================================================================
+1.0.0  SAMSUNG TIZEN GoogleMap ,  porting  to  OSM(OpenStreetMap.org) API : this is a start point. [20161225]
 1.0.1  OSM centering  problem fixing  : considering  osm policy  and GNUGPLv3
-1.0.2  OSM layer + Google map layer  : Double layer version
-1.0.3  [DCmap3project naming] OSM layer + leafletjs.com layer : OSM contributors version (online)
-1.0.4  OSM layer + leafletjs.com layer : OSM contributors native version (offline)
-1.1.0  DCgeolocation (SAMSUNG TIZEN SAMPLE branch) importing : self geolocation data supply function
-1.1.1  default  position  setting  by  Tizen contry local : zoom out 7
-========================================NOW================================================================
-1.2.0  (DC map)  searching  function adding  (soon)
-1.3.0  (DC map)  route line function adding  (nearly future, maybe)
