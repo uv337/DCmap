@@ -1,0 +1,24 @@
+
+\\\\\\\\\\\\\\\\\\\\\        ////////////////////
+ \\\\\            ||||      /////           ////  
+ |||||            ||||      |||||
+ |||||            ||||      |||||
+ |||||            ////      \\\\\            ||||   
+ ////////////////////        \\\\\\\\\\\\\\\\||||
+ 
+=========D C m a p=========Justice League=================================
+Wonder Woman : OSM(osm,OpenStreetMap.org) API
+Superman :   GPS HW and Geolocation web API (W3C HTML5) and GeoCoding
+Batman : [DC layer - IAC) leaflet.js(map layer JS library) fork  
+          and Justice League other member API Inter Agency Contacter       
+Flash: Nominatim API and Goecode Timezone API [GMTx24/360]
+GL Corps : [github.com/uv337/DCmap/blob/master/DCmap%20mini/DCmap1/version.txt]
+L : Lady Luck(God) aliace 
+Anti Monitor of Qward's Moon (Supuer Villain) :  Data traffic jam and BUG 
+Lex Corps :  Multiverse [Space] limit 
+==========================LOG===================================================================================
+1.0.0  SAMSUNG TIZEN GoogleMap ,  porting  to  OSM(OpenStreetMap.org) API : this is a start point. [20161225]
+1.0.1  OSM centering  problem fixing  : considering  osm policy  and GNUGPLv3
+2.0.0  DCmap2  is next step  after DCmap 1  and DCmap2 is important version  to understand  DCmap full version. 
+2.0.1  Added  GeoJson polyline draw Func on namespace DC.js :  GeoJson wrighter
+=========================== [) C =======================================================================
